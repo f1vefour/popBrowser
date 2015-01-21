@@ -1,0 +1,7 @@
+include ':external:netcipher:libnetcipher:external:pinning'
+include ':external:netcipher:netciphertest'
+include ':external:netcipher:libnetcipher'
+include ':'
+include ':external:netcipher:libnetcipher:external:memtrust'
+include ':external:netcipher:sample'
+include ':external:netcipher:libnetcipher:external:memtrust:example'
