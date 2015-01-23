@@ -410,7 +410,7 @@ public class SettingsActivity extends Activity {
 				if (mEasterEggCounter == 10) {
 
 					startActivity(new Intent(Intent.ACTION_VIEW, Uri
-							.parse("http://imgs.xkcd.com/comics/compiling.png"), mContext,
+											 .parse("http://i.giftrunk.com/pw2jz8.gif"), mContext,
 							MainActivity.class));
 					finish();
 					mEasterEggCounter = 0;

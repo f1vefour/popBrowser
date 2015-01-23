@@ -272,7 +272,7 @@
                 android:layout_centerVertical="true"
                 android:paddingLeft="10dp"
                 android:paddingRight="30dp"
-                android:text="WebFile compressor"
+                android:text="Block Images"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
             <CheckBox
